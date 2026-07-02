@@ -6,7 +6,7 @@ An interactive HR Analytics dashboard built in **Power BI** to analyze employee 
 ## 📷 Dashboard Preview
 
 
-![HR Dashboard](prj2.png)
+![HR Dashboard](prj2.jpg)
 
 ---
 ## 📌 Project Overview
